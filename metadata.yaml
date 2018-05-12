@@ -1,0 +1,35 @@
+_repo: Loveliness--A-Story_35966
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35966-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phelps, Elizabeth Stuart
+    aliases:
+    - Ward, Elizabeth Stuart Phelps
+    - Phelps, E. Stuart (Elizabeth Stuart)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '1685'
+    url: http://www.gutenberg.org/2009/agents/1685
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Stuart_Phelps_Ward
+description: ''
+gutenberg_issued: '2011-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Fiction'
+- !lcsh 'Vivisection -- Fiction'
+- !lcsh 'Children with disabilities -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Cruelty -- Fiction'
+- !lcsh 'Animal welfare -- Fiction'
+- !lcsh 'Human-animal relationships -- Fiction'
+title: 'Loveliness: A Story'
+url: http://www.gutenberg.org/ebooks/35966
